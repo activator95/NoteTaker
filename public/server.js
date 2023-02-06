@@ -9,7 +9,7 @@ const getNotes = () => {
   return readFile('db/db.json', 'utf-8').then(rawNotes => [].concat(JSON.parse(rawNotes)))
 }
 const PORT = process.env.PORT || 3001;
-
+//comment
 const app = express();
 app.use(express.json());
 app.use(express.urlencoded({extended:false}));
