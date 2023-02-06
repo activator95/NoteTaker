@@ -15,7 +15,7 @@ this was my first time using heroku
 
 ## Usage
 Type in your notes and have them stay on the note tracker so you can keep track
-
+![Alt text](Notetaker.png)
 ## Installation
 install I
 herouku account also
